@@ -56,7 +56,16 @@ Surface Plane
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  a
+
+  ### Screenreader
+  De screenreader werkt niet heel erg goed op de website. Menuopties heten “menuoptie 1” “menuoptie 2” etc. Ook hebben de films niet normale namen, maar “film 1” en “pijltje”  Het enige wat goed wordt weergegeven op de website is de “locatie” balk.
+
+  ### Scrollen zonder handen
+  Scrollen en klikken zonder handen is erg lastig en nagenoeg onmogelijk.
+
+  ### Tabben
+  Bij het Tabben springt het alle kanten op
 
 </details>
 
