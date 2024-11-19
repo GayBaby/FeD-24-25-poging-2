@@ -56,7 +56,6 @@ Surface Plane
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  a
 
   ### Screenreader
   De screenreader werkt niet heel erg goed op de website. Menuopties heten “menuoptie 1” “menuoptie 2” etc. Ook hebben de films niet normale namen, maar “film 1” en “pijltje”  Het enige wat goed wordt weergegeven op de website is de “locatie” balk.
