@@ -67,12 +67,13 @@ Surface Plane
   Bij het Tabben springt het alle kanten op
 
 
-  <img src="images/scan1" width="375px" alt="omschrijving van de pagina">
-  <img src="images/scan2" width="375px" alt="omschrijving van de pagina">
-  <img src="images/scan3" width="375px" alt="omschrijving van de pagina">
-  <img src="images/scan4" width="375px" alt="omschrijving van de pagina">
-  <img src="images/scan5" width="375px" alt="omschrijving van de pagina">
-  <img src="images/scan6" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/scan1.png" width="375px" alt="WCAG scan">
+  <img src="readme-images/scan2.png" width="375px" alt="WCAG scan">
+  <img src="readme-images/scan3.png" width="375px" alt="WCAG scan">
+  <img src="readme-images/scan4.png" width="375px" alt="WCAG scan">
+  <img src="readme-images/scan5.png" width="375px" alt="WCAG scan">
+  <img src="readme-images/scan6.png" width="375px" alt="WCAG scan">
+
   
 </details>
 
