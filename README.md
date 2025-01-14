@@ -66,6 +66,14 @@ Surface Plane
   ### Tabben
   Bij het Tabben springt het alle kanten op
 
+
+  <img src="images/scan1" width="375px" alt="omschrijving van de pagina">
+  <img src="images/scan2" width="375px" alt="omschrijving van de pagina">
+  <img src="images/scan3" width="375px" alt="omschrijving van de pagina">
+  <img src="images/scan4" width="375px" alt="omschrijving van de pagina">
+  <img src="images/scan5" width="375px" alt="omschrijving van de pagina">
+  <img src="images/scan6" width="375px" alt="omschrijving van de pagina">
+  
 </details>
 
 
