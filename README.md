@@ -44,7 +44,7 @@ Surface Plane
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/wicked.jpg" width="375px" alt="webpagina van wicked op pathe">
+  <img src="readme-images/wicked.png" width="375px" alt="webpagina van wicked op pathe">
  
 </details>
 
