@@ -111,20 +111,13 @@ Surface Plane
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+ Ik heb niet zoveel vragen, ik heb het idee dat ik het voor nu wel snap. 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  
+nvt. ik heb tijdens de meeting aan mijn code gewerkt.
 
 </details>
 
@@ -138,26 +131,21 @@ Surface Plane
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik vond het maken van de carousel echt irritant lastig. Het brak contimu. Uiteindelijk de carousel van Sanne gebruikt, maar dat werkte niet echt. Uiteindelijk buttons gemaakt op basis van een codepen guide. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Issues met mijn carousel. 
+Vragen over hoe ik afbeeldingen correct moet positioneren.
+Vragen over of een achtergrond bij de carousel wel moet
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Carousel is gefixt
+  Sybren heeft me enrom op weg geholpen met de carousel.
+  
 
 </details>
 
@@ -169,6 +157,15 @@ Surface Plane
 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
+
+
+  <img src="readme-images/WCAG1.png" width="375px" alt="Wcag test volledig">
+  <img src="readme-images/WCAG2.png" width="375px" alt="Wcag test volledig">
+  <img src="readme-images/WCAG3.png" width="375px" alt="Wcag test volledig">
+  <img src="readme-images/WCAG4.png" width="375px" alt="Wcag test volledig">
+  <img src="readme-images/WCAG5.png" width="375px" alt="Wcag test volledig">
+
+
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
@@ -187,24 +184,18 @@ Surface Plane
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Oneindig gekloot met de carousel
+Gewoon werken aan de code tijdens de les
+Vragen stellen over Github want mijn wite sil niet uploaden
+Vragen naar additinele animaties en onderdelen.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Github gefixt, lag aan een video
+Additionele animaties aangepast waar nodig.
+
 
 </details>
 
@@ -218,13 +209,13 @@ Surface Plane
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/dummy-plaatje1.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/dummy-plaatje2.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -246,8 +237,6 @@ Surface Plane
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  Bronnen staan in de code vermeld.
 
 </details>
